@@ -1,5 +1,4 @@
 # Password Generator Starter Code
-# Week Assignment 
 
 # We were given the task of making a pssword generator.
 
