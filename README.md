@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+
 
 # We were given the task of making a pssword generator.
 
